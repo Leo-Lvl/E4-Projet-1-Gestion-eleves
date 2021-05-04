@@ -1,0 +1,28 @@
+S:\E4\Gestion élèves\Gestion élèves\bin\Debug\Gestion élèves.exe.config
+S:\E4\Gestion élèves\Gestion élèves\bin\Debug\Gestion élèves.exe
+S:\E4\Gestion élèves\Gestion élèves\bin\Debug\Gestion élèves.pdb
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.csprojAssemblyReference.cache
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.GroupBoxLogin.resources
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Properties.Resources.resources
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.csproj.GenerateResource.cache
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.csproj.CoreCompileInputs.cache
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.exe
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.pdb
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Accueil.resources
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Agenda.resources
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Emploi_du_temps.resources
+S:\E4\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Notes.resources
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\bin\Debug\Gestion élèves.exe.config
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\bin\Debug\Gestion élèves.exe
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\bin\Debug\Gestion élèves.pdb
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.csprojAssemblyReference.cache
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Accueil.resources
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Agenda.resources
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Emploi_du_temps.resources
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Notes.resources
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.GroupBoxLogin.resources
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion_élèves.Properties.Resources.resources
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.csproj.GenerateResource.cache
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.csproj.CoreCompileInputs.cache
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.exe
+G:\Slam E4-E6\Git\E4 Projets\Gestion élèves\Gestion élèves\obj\Debug\Gestion élèves.pdb
