@@ -19,7 +19,7 @@
 ***
 
 * ##  *Page de connexion* <br> 
-<img src="image/ConnexionEleve.png" width="300"/><br>
+<img src="image\ConnexionEleve.png" width="300"/><br>
 
 L'élève se connecte en entrant son identifiant ainsi que son mot de passe. 
 S'ils sont incorrects, l'accès lui est refusé.
